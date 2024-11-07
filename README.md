@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivam-GitLab
+- 👋 Hi, I’m @Shivam-Jha
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
