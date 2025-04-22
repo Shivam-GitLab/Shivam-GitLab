@@ -1,16 +1,11 @@
 - 👋 Hi, I’m @Shivam-Jha
 - 👀 I’m interested in Java Development
 - 🌱 I’m currently learning Java Full Stack Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Shivam-GitLab/Shivam-GitLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <div style="display: flex; gap: 12px; align-items:center; flex-wrap: wrap;">
   <!-- Backend Section -->
   <div style="flex: 1;">
