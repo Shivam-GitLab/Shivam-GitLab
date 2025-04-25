@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivam-Jha
-- 👀 I’m interested in Java Development
+- 👀 I’m interested in Java Spring Boot Development
 - 🌱 I’m currently learning Java Full Stack Development
 
 <!---
