@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivam-Jha
+- 👋 Hi, I’m Shivam Jha
 - 👀 I’m interested in Java Spring Boot Development
 - 🌱 I’m currently learning Java Full Stack Development
 
