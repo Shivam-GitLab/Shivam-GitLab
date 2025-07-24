@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivam Jha
 - 👀 I’m interested in Java Spring Boot Development
-- 🌱 I’m currently learning Java Full Stack Development
+- 🌱 I’m currently learning Java Backend Development
 
 <!---
 Shivam-GitLab/Shivam-GitLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
