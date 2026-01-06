@@ -28,15 +28,6 @@
 <table>
 <tr>
 <td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" /><br>Java 17+
-</td>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" width="50" height="50" /><br>Spring Boot
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" /><br>MySQL
-</td>
-<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" /><br>HTML5
 </td>
 <td align="center" width="100">
@@ -49,10 +40,10 @@
 <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" /><br>IntelliJ IDEA
 </td>
 <td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" /><br>Docker
+<img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker
 </td>
 <td align="center" width="100">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" /><br>Postman
+<img src="https://skillicons.dev/icons?i=postman" width="50"/><br>Postman
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" /><br>Git
@@ -63,3 +54,37 @@
 </tr>
 </table>
 </div>
+
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/><br>Java 17+
+</td>
+<td align="center" width="100">
+<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="50"/><br>Spring Boot
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/><br>React
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br>MySQL
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=hibernate" width="50"/><br>Hibernate
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=maven" width="50"/><br>Maven
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=gradle" width="50"/><br>Gradle
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux
+</td>
+</tr>
+</table>
+</div>
+
