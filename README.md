@@ -74,7 +74,6 @@
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=hibernate" width="50"/><br>Hibernate
 </td>
-
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=maven" width="50"/><br>Maven
 </td>
