@@ -24,66 +24,10 @@
 
 
 <h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E4ZnNoeGVxY2E3dWFmcHdqd21vcWo3eDM3OWg4MGxtOHZuYTl1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUA7aXvRDAkfFUsVbO/giphy.gif" width="60" align="absmiddle"><b>Tech Stack : </b></h3>
-<div align="center">
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" /><br>HTML5
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" /><br>CSS3
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" /><br>VS Code
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" /><br>IntelliJ IDEA
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=postman" width="50"/><br>Postman
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" /><br>Git
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" /><br>GitHub
-</td>
-</tr>
-</table>
-</div>
 
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/><br>Java 17+
-</td>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="50"/><br>Spring Boot
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/><br>React
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br>MySQL
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=hibernate" width="50"/><br>Hibernate
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=maven" width="50"/><br>Maven
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=gradle" width="50"/><br>Gradle
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux
-</td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,go,react,spring,git,github,postman,mongodb,mysql,postgres,hibernate,maven,gradle,bash,aws,vscode,idea,kubernetes,kafka,docker,redis,windows,ubuntu,vite," />
+  </a>
+</p>
 
