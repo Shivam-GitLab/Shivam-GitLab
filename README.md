@@ -30,4 +30,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,go,react,spring,git,github,postman,mongodb,mysql,postgres,hibernate,maven,gradle,bash,aws,vscode,idea,kubernetes,kafka,docker,redis,windows,ubuntu,vite," />
   </a>
 </p>
-
