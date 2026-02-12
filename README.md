@@ -3,10 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=1800&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shivam+Jha;Java+Backend+Developer+💻;Spring+Boot+&+API+Specialist;Always+Learning+📚+Always+Building" alt="Typing SVG" />
   </a>
 </h1>
-###
 <h4 align="center"><b>🏢 Aspiring Java Backend Developer</b></h4>
-
-
 <img align="right" alt="Coding" width="200" 
      src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" 
      hspace="20" vspace="10">
