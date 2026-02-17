@@ -9,9 +9,9 @@
      hspace="20" vspace="10">
 
 💼 **What I Do**  
-- ⚙️ Building **scalable Java backend systems** with Spring Boot, Microservices, and REST APIs.  
-- 🔒 Designing **secure, role-based applications** with Spring Security & JWT authentication.  
-- 🗄️ Integrating **databases** (MySQL, PostgreSQL) with Spring Data JPA & Hibernate.  
+- ⚙️ Building **Scalable Java Backend systems** with Spring Boot, Microservices, and REST APIs.  
+- 🔒 Designing **Secure, Role-Based Applications** with Spring Security & JWT authentication.  
+- 🗄️ Integrating **Databases** (MySQL, PostgreSQL) with Spring Data JPA & Hibernate.  
 - ☁️ Exploring **Cloud Deployment** (AWS, Docker, Kubernetes) for real-world production apps.  
 - 🧠 Passionate about **System Design**, **High-Performance APIs**, and **Clean Architecture**.  
 
