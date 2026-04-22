@@ -5,6 +5,7 @@
      src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" 
      hspace="20" vspace="10">
 
+
 💼 **What I Do**  
 - ⚙️ Building **Scalable Java Backend systems** with Spring Boot, Microservices, and REST APIs.  
 - 🔒 Designing **Secure, Role-Based Applications** with Spring Security & JWT authentication.  
